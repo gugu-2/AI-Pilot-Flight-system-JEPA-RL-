@@ -1,4 +1,5 @@
 # JEPA Autonomous Flight & AI Pilot Systems: Research & Architecture Directory
+---
 
 Welcome to the dedicated research and engineering documentation suite for **JEPA-Powered AI Pilots and High-Speed Autonomous Drone Brains**.
 
