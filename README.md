@@ -4,7 +4,7 @@
 Welcome to the dedicated research and engineering documentation suite for **JEPA-Powered AI Pilots and High-Speed Autonomous Drone Brains**.
 
 ---
-
+---
 ## 🛸 Documentation Directory Index
 
 | Document | Description | Target Audience |
